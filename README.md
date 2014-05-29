@@ -7,7 +7,7 @@ Raspberry Cleaner
 
 ## Installation
 - Clone cleanup.sh into the folder where you keep your housekeeping scripts.
-- Make executable. ```chmod +x backup.sh```
+- Make executable. ```chmod +x cleanup.sh```
 - Update crontab to run each it each night.
 
 ___Example___
