@@ -1,4 +1,4 @@
-Raspberri Cleaner
+Raspberry Cleaner
 =================
 
 -Raspberry SD card cleaner.
