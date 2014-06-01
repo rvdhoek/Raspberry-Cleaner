@@ -12,7 +12,7 @@ Raspberry Cleaner
 
 ___Example___
 
-Update /etc/crontab to run backup.sh as root every night at 3am
+Update /etc/crontab to run cleanup.sh as root every night at 3am
 
 ```01 3    * * *   root    /home/pi/scripts/cleanup.sh```
 
